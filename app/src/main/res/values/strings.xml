@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UsingGit</string>
+    <string name="change_on_GitHub">Change made on Git Hub and pushed to local repository</string>
 </resources>
